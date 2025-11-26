@@ -44,10 +44,10 @@ Instalación y ejecución
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/Franco-stack/Datos-de-Equipos-de-Futbol-Argentino.git
 
 # Entrar al directorio
-cd TU-REPO
+cd Datos-de-Equipos-de-Futbol-Argentino
 
 # Instalar dependencias
 npm install
